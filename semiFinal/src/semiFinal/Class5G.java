@@ -13,6 +13,7 @@ public class Class5G {
 		System.out.println(" ÀÌ°Ô ¿ôÀÎ°Ô ");
 		System.out.println("³ªÇı¿Ó´Ù°¨");
 		System.out.println("111");
+		System.out.println("zzzz");
 	}
 
 }
