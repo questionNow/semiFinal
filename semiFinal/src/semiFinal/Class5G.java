@@ -17,6 +17,9 @@ public class Class5G {
 		
 		
 		System.out.println("SDB TEST");
+		System.out.println("SDB TEST");
+		
+		System.out.println("¿À´Ã ºê·±Ä¡ ¸Ô¾úÁö...");
 	}
 
 }
