@@ -14,6 +14,8 @@ public class Class5G {
 		System.out.println("나혜왓다감");
 		
 		20:26 수정함
+		
+		20:28 수정함
 	}
 
 }
