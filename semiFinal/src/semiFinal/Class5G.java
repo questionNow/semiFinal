@@ -21,5 +21,6 @@ public class Class5G {
 		
 		System.out.println("자꾸 멀어져만 가네요 20:50");
 		System.out.println("자꾸 멀어져만 가네요 20:52");
+		System.out.println("자꾸 멀어져만 가네요 20:53");
 	}
 }
