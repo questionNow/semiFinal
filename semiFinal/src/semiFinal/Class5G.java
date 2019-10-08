@@ -13,14 +13,12 @@ public class Class5G {
 		System.out.println(" 이게 웃인게 ");
 		System.out.println("나혜왓다감");
 		
-<<<<<<< HEAD
 		System.out.println("jaowoongjaewoong");
 		System.out.println("111");
-=======
 		System.out.println("임재윤왔다감");
 		
 		System.out.println("test");
->>>>>>> refs/remotes/origin/JAEJAE
+
 	}
 
 }
