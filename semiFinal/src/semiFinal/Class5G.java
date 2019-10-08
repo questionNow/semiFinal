@@ -14,12 +14,7 @@ public class Class5G {
 		System.out.println("³ªÇý¿Ó´Ù°¨");
 		
 		System.out.println("jaowoongjaewoong");
-<<<<<<< HEAD
-		
-		20:26 ¼öÁ¤ÇÔ
-=======
 		System.out.println("111");
->>>>>>> refs/remotes/origin/master
 	}
 
 }
