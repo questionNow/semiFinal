@@ -21,6 +21,8 @@ public class Class5G {
 		
 		System.out.println("오늘 브런치 먹었지...");
 		
+		// 20시08분
+		
 	}
 
 }
