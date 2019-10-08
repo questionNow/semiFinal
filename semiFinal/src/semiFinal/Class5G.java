@@ -13,6 +13,7 @@ public class Class5G {
 		System.out.println(" 이게 웃인게 ");
 		System.out.println("나혜왓다감");
 		
+
 		System.out.println("테스트테스트세테스트스");
 		
 		
@@ -23,6 +24,9 @@ public class Class5G {
 		
 		// 20시08분 
 		
+
+		System.out.println("20:54");
+
 	}
 
 }
