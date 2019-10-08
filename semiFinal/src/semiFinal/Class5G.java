@@ -14,6 +14,8 @@ public class Class5G {
 		System.out.println("³ªÇı¿Ó´Ù°¨");
 		
 		System.out.println("ÀÓÀçÀ±¿Ô´Ù°¨");
+		
+		System.out.println("test");
 	}
 
 }
