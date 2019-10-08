@@ -9,10 +9,14 @@ public class Class5G {
 		
 		
 		
-		System.out.println( " t저ㅐ웃ㅇ이 ㅔ스트합니다 ");
+		System.out.println( " ㅈㅐ웅스 합니다 ");
 		System.out.println(" 이게 웃인게 ");
 		System.out.println("나혜왓다감");
+
 		
 		System.out.println("jaowoongjaewoong");
+		System.out.println("111");
+		System.out.println("zzzz");
+		System.out.println("점점 더 멀어져간다........");
 	}
 }
