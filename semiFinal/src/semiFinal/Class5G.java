@@ -14,6 +14,7 @@ public class Class5G {
 		System.out.println("나혜왓다감");
 		System.out.println("111");
 		System.out.println("zzzz");
+		System.out.println("점점 더 멀어져간다........");
 	}
 
 }
